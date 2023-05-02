@@ -1,4 +1,4 @@
-# de_project
+# _project
 
 Запуск сервиса:
   1. Вставьте ваш API-ключ бота в файл bot/tgbot.py
